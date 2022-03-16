@@ -1,0 +1,35 @@
+body {
+  font-family: "Nunito", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  color: #222;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+p,
+h1,
+h2,
+h3,
+ul,
+li,
+a {
+  margin: 0px;
+}
+
+*{
+  box-sizing: border-box;
+}

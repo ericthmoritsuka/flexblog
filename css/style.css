@@ -1,0 +1,11 @@
+@import "./global.css";
+@import "./header.css";
+@import "./footer.css";
+
+@import "./barraSuperior.css";
+@import "./sobre.css";
+@import "./produtos.css";
+@import "./preco.css";
+@import "./qualidade.css";
+@import "./newsletter.css";
+

@@ -1,0 +1,26 @@
+.barraSuperior-bg {
+  background-color: #122ab2;
+  color: white;
+}
+
+.barraSuperior {
+  display: flex;
+  justify-content: space-between;
+  max-width: 960px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}
+
+.barraSuperior p, .barraSuperior a{
+  margin: 0 10px 10px 10px;
+}
+
+.barraSuperior a {
+  color: white;
+}
+
+.barraSuperior a:hover {
+  color: #2c70ff;
+}
+
